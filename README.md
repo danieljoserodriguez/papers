@@ -5,3 +5,7 @@ Just a one stop shop kind of repo to find the most relavant papers, documents, g
 Sorry for checking in binaries but I do see this space evolving one day to allow for works in progress to be included for the latest things coming out.
 
 Enjoy and hope this was helpful!
+
+## Directory Info
+- Deep Learning: papers from across the globe focusing on the most relavant and popular papers to date.
+- RFCs - A Request for Comments (RFC) repo which are formal documents from the Internet Engineering Task Force ( IETF ) that is the result of committee drafting and subsequent review by interested parties. Some RFCs are informational in nature. Rather than having on the web - here they are in PDF easy to grab.
