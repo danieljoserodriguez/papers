@@ -9,3 +9,5 @@ Enjoy and hope this was helpful!
 ## Directory Info
 - Deep Learning: papers from across the globe focusing on the most relavant and popular papers to date.
 - RFCs - A Request for Comments (RFC) repo which are formal documents from the Internet Engineering Task Force ( IETF ) that is the result of committee drafting and subsequent review by interested parties. Some RFCs are informational in nature. Rather than having on the web - here they are in PDF easy to grab.
+
+### DISCLAOMER: By no means do I take credit for any of these works unless in fact is mine and referenced accordingly. Each and every author has been keep in tact within the documents. Should there be any issues with having a document in this repo please feel free to contact me directly so we can address the issue. Thanks!
